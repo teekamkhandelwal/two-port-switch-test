@@ -1,3 +1,22 @@
+//////////////////////////////////////////////////////////////////////////////////
+// Company: nit kurukshetra
+// Engineer: teekam chand khandelwal
+// 
+// Create Date:    13:42:10 11/25/2020 
+// Design Name: 
+// Module Name:    switch
+// Project Name: 
+// Target Devices: 
+// Tool versions: 
+// Description: 
+//
+// Dependencies: 
+//
+// Revision: 
+// Revision 0.01 - File Created
+// Additional Comments: 
+//
+//////////////////////////////////////////////////////////////////////////////////
 module switch 
   # (parameter ADDR_WIDTH = 8,
      parameter DATA_WIDTH = 16,
