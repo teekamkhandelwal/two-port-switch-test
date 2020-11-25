@@ -342,3 +342,6 @@ T=410 [Generator] Done generation of 20 items
 Simulation complete via $finish(1) at time 410 NS + 4
 ./environment.sv:51      $finish;
 xcelium> exi
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AUTHOUR: TEEKAM CHAND KHANDELWAL
